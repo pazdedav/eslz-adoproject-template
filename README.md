@@ -24,5 +24,16 @@ This repo contains a **project template** for Azure DevOps [Demo Generator](http
 ![Step 4](docs/img/step4.png)
 
 6. Use the "Select organization" drop-down menu and select your DevOps organization, where you want to create your new ESLZ project. Enter the name of your project.
-7. Scroll to the bottom and click "Create Project".
+
+7. You might be prompted with the following required extensions
+
+![Step 7](https://user-images.githubusercontent.com/19664186/118844617-60647400-b8cb-11eb-8933-8e3821378b22.png)
+
+
+8. Scroll to the bottom and click "Create Project".
+![Step 8.1](https://user-images.githubusercontent.com/19664186/118845191-da94f880-b8cb-11eb-87d5-d5c5f340c660.png)
+
+Update bar like below will start
+
+![Step 8.2](https://user-images.githubusercontent.com/19664186/118844926-a28db580-b8cb-11eb-8663-b25fd5300558.png)
 
